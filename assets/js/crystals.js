@@ -41,7 +41,7 @@ $(document).ready(function(){
         calculatedNumber = 0;
         crystals = crystalGenerator();
         randomNumber = Math.floor(Math.random() * 80) + 20;
-        $("#randomNumber").text("Get this number by clicking on crystals!:" + randomNumber);
+        $("#randomNumber").text("Get this number by clicking on crystals: " + randomNumber);
         renderCalculatedNumber();
     
     }
