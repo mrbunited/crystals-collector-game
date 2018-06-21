@@ -6,7 +6,7 @@ img {
 body{
 max-width:1000px;
 margin: auto;
-background-image: url("https://pixabay.com/get/eb33b80a2df2083ed1534705fb0938c9bd22ffd41cb3184797f3c37ea4/milky-way-2695569_1920.jpg");
+background-image: url("../css/img/milky-way.jpg");
 color: white;
 font-family: 'Frijole', cursive;
 font-size: 30px;
